@@ -7,5 +7,3 @@ export def main []  {
     docker compose up -d
     bash ./script/install-linux
 }
-
-# export alias zed = ~/.local/bin/zed
